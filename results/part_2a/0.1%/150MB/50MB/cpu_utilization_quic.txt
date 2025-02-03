@@ -1,0 +1,31 @@
+Linux 6.8.0-40-generic (iiitd-ThinkCentre-M70s-Gen-3) 	02/02/25 	_x86_64_	(20 CPU)
+
+03:20:26 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:27 PM IST    0   63.37    0.00   20.79    0.00    0.00    0.00    0.00    0.00    0.00   15.84
+
+03:20:27 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:28 PM IST    0   43.75    0.00   22.92    0.00    0.00    0.00    0.00    0.00    0.00   33.33
+
+03:20:28 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:29 PM IST    0   42.00    0.00   21.00    0.00    0.00    0.00    0.00    0.00    0.00   37.00
+
+03:20:29 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:30 PM IST    0   38.00    0.00   21.00    1.00    0.00    0.00    0.00    0.00    0.00   40.00
+
+03:20:30 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:31 PM IST    0   59.60    0.00   24.24    0.00    0.00    0.00    0.00    0.00    0.00   16.16
+
+03:20:31 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:32 PM IST    0   43.30    0.00   25.77    0.00    0.00    0.00    0.00    0.00    0.00   30.93
+
+03:20:32 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:33 PM IST    0   37.89    0.00   20.00    0.00    0.00    0.00    0.00    0.00    0.00   42.11
+
+03:20:33 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:34 PM IST    0   59.60    0.00   23.23    0.00    0.00    0.00    0.00    0.00    0.00   17.17
+
+03:20:34 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:35 PM IST    0   43.30    0.00   22.68    0.00    0.00    0.00    0.00    0.00    0.00   34.02
+
+03:20:35 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:20:36 PM IST    0   39.18    0.00   24.74    0.00    0.00    0.00    0.00    0.00    0.00   36.08

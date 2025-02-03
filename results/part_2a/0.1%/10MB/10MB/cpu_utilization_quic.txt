@@ -1,0 +1,94 @@
+Linux 6.8.0-40-generic (iiitd-ThinkCentre-M70s-Gen-3) 	02/02/25 	_x86_64_	(20 CPU)
+
+03:31:56 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:31:57 PM IST    0   60.78    0.00   21.57    0.00    0.00    0.00    0.00    0.00    0.00   17.65
+
+03:31:57 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:31:58 PM IST    0   12.87    0.00    6.93    0.00    0.00    0.00    0.00    0.00    0.00   80.20
+
+03:31:58 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:31:59 PM IST    0   11.76    0.00    4.90    1.96    0.00    0.00    0.00    0.00    0.00   81.37
+
+03:31:59 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:00 PM IST    0   10.89    0.00    4.95    1.98    0.00    0.00    0.00    0.00    0.00   82.18
+
+03:32:00 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:01 PM IST    0   10.78    0.00    4.90    0.00    0.00    0.00    0.00    0.00    0.00   84.31
+
+03:32:01 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:02 PM IST    0   11.88    0.00    4.95    0.00    0.00    0.00    0.00    0.00    0.00   83.17
+
+03:32:02 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:03 PM IST    0   11.88    0.00    3.96    0.00    0.00    0.00    0.00    0.00    0.00   84.16
+
+03:32:03 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:04 PM IST    0   10.78    0.00    4.90    0.00    0.00    0.00    0.00    0.00    0.00   84.31
+
+03:32:04 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:05 PM IST    0   10.78    0.00    5.88    0.00    0.00    0.00    0.00    0.00    0.00   83.33
+
+03:32:05 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:06 PM IST    0   11.88    0.00    4.95    0.00    0.00    0.00    0.00    0.00    0.00   83.17
+
+03:32:06 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:07 PM IST    0   32.35    0.00   16.67    0.00    0.00    0.98    0.00    0.00    0.00   50.00
+
+03:32:07 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:08 PM IST    0   38.61    0.00   10.89    0.00    0.00    0.00    0.00    0.00    0.00   50.50
+
+03:32:08 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:09 PM IST    0   12.12    0.00    3.03    0.00    0.00    0.00    0.00    0.00    0.00   84.85
+
+03:32:09 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:10 PM IST    0   10.89    0.00    4.95    0.99    0.00    0.00    0.00    0.00    0.00   83.17
+
+03:32:10 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:11 PM IST    0   10.89    0.00    4.95    0.99    0.00    0.00    0.00    0.00    0.00   83.17
+
+03:32:11 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:12 PM IST    0   11.65    0.00    5.83    0.00    0.00    0.00    0.00    0.00    0.00   82.52
+
+03:32:12 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:13 PM IST    0   10.89    0.00    4.95    0.00    0.00    0.00    0.00    0.00    0.00   84.16
+
+03:32:13 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:14 PM IST    0   11.00    0.00    4.00    0.00    0.00    0.00    0.00    0.00    0.00   85.00
+
+03:32:14 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:15 PM IST    0   10.89    0.00    3.96    1.98    0.00    0.00    0.00    0.00    0.00   83.17
+
+03:32:15 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:16 PM IST    0   10.68    0.00    6.80    0.00    0.00    0.00    0.00    0.00    0.00   82.52
+
+03:32:16 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:17 PM IST    0   18.81    0.00    7.92    0.00    0.00    0.00    0.00    0.00    0.00   73.27
+
+03:32:17 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:18 PM IST    0   52.00    0.00   20.00    0.00    0.00    0.00    0.00    0.00    0.00   28.00
+
+03:32:18 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:19 PM IST    0   12.87    0.00    5.94    0.00    0.00    0.00    0.00    0.00    0.00   81.19
+
+03:32:19 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:20 PM IST    0   11.88    0.00    6.93    0.99    0.00    0.00    0.00    0.00    0.00   80.20
+
+03:32:20 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:21 PM IST    0   12.00    0.00    6.00    0.00    0.00    0.00    0.00    0.00    0.00   82.00
+
+03:32:21 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:22 PM IST    0   12.87    0.00    5.94    0.00    0.00    0.00    0.00    0.00    0.00   81.19
+
+03:32:22 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:23 PM IST    0   11.88    0.00    6.93    0.00    0.00    0.00    0.00    0.00    0.00   81.19
+
+03:32:23 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:24 PM IST    0   13.00    0.00    5.00    0.00    0.00    0.00    0.00    0.00    0.00   82.00
+
+03:32:24 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:25 PM IST    0   12.00    0.00    5.00    3.00    0.00    0.00    0.00    0.00    0.00   80.00
+
+03:32:25 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:26 PM IST    0   12.75    0.00    6.86    0.00    0.00    0.00    0.00    0.00    0.00   80.39
+
+03:32:26 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:32:27 PM IST    0   12.00    0.00    5.00    0.00    0.00    0.00    0.00    0.00    0.00   83.00

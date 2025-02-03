@@ -1,0 +1,7 @@
+Making Quic Request
+Page Load Time on 1th attempt: 44.334 seconds
+Making Quic Request
+Page Load Time on 2th attempt: 44.314 seconds
+Making Quic Request
+Page Load Time on 3th attempt: 44.295 seconds
+Average PageLoadTime using quic is:  44.31420667966207

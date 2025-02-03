@@ -1,0 +1,7 @@
+Making Tcp Request
+Page Load Time on 1th attempt: 926.441 seconds
+Making Tcp Request
+Page Load Time on 2th attempt: 926.517 seconds
+Making Tcp Request
+Page Load Time on 3th attempt: 926.512 seconds
+Average PageLoadTime using tcp is:  926.49011627833049

@@ -1,0 +1,10 @@
+Linux 6.8.0-40-generic (iiitd-ThinkCentre-M70s-Gen-3) 	02/02/25 	_x86_64_	(20 CPU)
+
+03:23:45 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:23:46 PM IST    0   62.38    0.00   20.79    0.00    0.00    0.00    0.00    0.00    0.00   16.83
+
+03:23:46 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:23:47 PM IST    0   57.58    0.00   24.24    0.00    0.00    0.00    0.00    0.00    0.00   18.18
+
+03:23:47 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:23:48 PM IST    0   51.00    0.00   16.00    0.00    0.00    0.00    0.00    0.00    0.00   33.00
